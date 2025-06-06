@@ -4,8 +4,6 @@ transformers
 torch
 deepface
 scikit-learn
-flask
 piexif
-requests
 tqdm
 streamlit
