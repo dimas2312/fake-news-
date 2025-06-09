@@ -1,3 +1,9 @@
+# This Python script is a Streamlit web app designed to
+# generate a fake news article based on an uploaded image.
+
+
+
+
 import streamlit as st
 from analysis.image import describe
 from analysis.text import generate
